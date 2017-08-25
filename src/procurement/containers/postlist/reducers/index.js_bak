@@ -1,0 +1,6 @@
+import { combineReducers } from 'redux'
+import { SearchPost } from './SearchPost'
+
+export const PostList = combineReducers({
+  SearchPost
+})

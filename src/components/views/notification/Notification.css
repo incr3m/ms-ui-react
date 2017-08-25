@@ -1,0 +1,9 @@
+
+.Notif:hover {
+    background-color:gainsboro;    
+    cursor: pointer;
+}
+.Notif.hr{
+    border-top: solid 1px gainsboro;
+}
+
